@@ -1,0 +1,8 @@
+C:\Users\venkatesh.j\source\repos\Visucs\Visucs\bin\Visucs.dll.config
+C:\Users\venkatesh.j\source\repos\Visucs\Visucs\bin\Visucs.dll
+C:\Users\venkatesh.j\source\repos\Visucs\Visucs\bin\Visucs.pdb
+C:\Users\venkatesh.j\source\repos\Visucs\Visucs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\venkatesh.j\source\repos\Visucs\Visucs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\venkatesh.j\source\repos\Visucs\Visucs\obj\Debug\Visucs.csproj.CoreCompileInputs.cache
+C:\Users\venkatesh.j\source\repos\Visucs\Visucs\obj\Debug\Visucs.dll
+C:\Users\venkatesh.j\source\repos\Visucs\Visucs\obj\Debug\Visucs.pdb
